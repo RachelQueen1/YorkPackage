@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/RachelQueen1/mypackage
 BugReports: https://github.com/RachelQueen1/mypackage/issues
+RoxygenNote: 6.1.1
