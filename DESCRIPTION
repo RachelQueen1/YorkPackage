@@ -11,6 +11,5 @@ Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/RachelQueen1/mypackage
-BugReports: https://github.com/RachelQueen1/mypackage/issues
+URL: https://github.com/RachelQueen1/YorkPackage
 RoxygenNote: 6.1.1
