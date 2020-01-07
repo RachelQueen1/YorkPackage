@@ -1,0 +1,10 @@
+Package: York Package
+Type: Package
+Title: York Package
+Version: 0.9
+Author: Rachel Queen <rachel.queen@newcastle.ac.uk>
+Maintainer: Rachel Queen <rachel.queen@newcastle.ac.uk>
+Description: Sum Squares
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
