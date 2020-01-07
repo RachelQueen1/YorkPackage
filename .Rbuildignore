@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^YorkPackage\.Rproj$
+^creating_package.R$
