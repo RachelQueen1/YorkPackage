@@ -8,7 +8,7 @@
 #' @examples standard_error()
 
 standard_error <- function(v){
-  s <- sum(v)
+  s <- sd(v)
   n <- length(v)
   se <- s / sqrt(n)
   return(se)
